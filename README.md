@@ -2,7 +2,11 @@
 
 An AI-powered trading bot that combines machine learning and reinforcement learning to predict stock prices and automate trading decisions.
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ai-trading-bot.streamlit.app/)
+## Video example : 
+
+![Demo GIF](./trading_demo.gif)
+
+## Try it at : https://ai-trading-bot-ciynoabx9pjekyumdorrkr.streamlit.app/
 
 ## Features
 
@@ -67,20 +71,6 @@ Backtest the trading strategy:
 ```bash
 python main.py --mode backtest --ticker AAPL --period 2y --balance 10000
 ```
-
-## Deployment
-
-### Local Deployment
-```bash
-streamlit run dashboard.py
-```
-
-### Streamlit Cloud Deployment
-1. Push the code to GitHub
-2. Go to [Streamlit Cloud](https://streamlit.io/cloud)
-3. Sign in with your GitHub account
-4. Deploy the app by selecting your repository
-5. Set the main file path to `dashboard.py`
 
 ## Project Structure
 
