@@ -22,7 +22,7 @@ An AI-powered trading bot that combines machine learning and reinforcement learn
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/ai-trading-bot.git
+git clone https://github.com/Psantaniello24/AI-TRADING-BOT.git
 cd ai-trading-bot
 ```
 
